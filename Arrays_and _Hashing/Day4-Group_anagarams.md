@@ -440,16 +440,3 @@ Append word to group
 ```
 
 ---
-
-## 📊 100 Days Progress
-
-| Day | Problem            | Main Concept       | Status |
-| --- | ------------------ | ------------------ | ------ |
-| 1   | Contains Duplicate | Set                | ✅      |
-| 2   | Valid Anagram      | Hash Map           | ✅      |
-| 3   | Two Sum            | Hash Map           | ✅      |
-| 4   | Group Anagrams     | Hash Map + Sorting | ✅      |
-
-## 🔥 Day 4 / 100
-
-**One problem at a time. One day at a time. Keep building.**
