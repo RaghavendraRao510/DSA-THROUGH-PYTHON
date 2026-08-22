@@ -541,21 +541,3 @@ Answer
 ```
 
 ---
-
-# 📊 100 Days Progress
-
-| Day | Problem                 | Main Concept       | Status |
-| --- | ----------------------- | ------------------ | ------ |
-| 1   | Contains Duplicate      | Set                | ✅      |
-| 2   | Valid Anagram           | Hash Map           | ✅      |
-| 3   | Two Sum                 | Hash Map           | ✅      |
-| 4   | Group Anagrams          | Hash Map + Sorting | ✅      |
-| 5   | Top K Frequent Elements | Hash Map + Sorting | ✅      |
-
-## 🔥 Day 5 / 100
-
-**Problem:** Top K Frequent Elements
-**Language:** Python
-**Topic:** Hash Map + Sorting
-**Difficulty:** Medium
-**Status:** ✅ Completed
