@@ -403,15 +403,3 @@ Check complement → Found? Return indices → Otherwise store number
 This **hash map lookup pattern** is one of the most important techniques for coding interview problems.
 
 ---
-
-## 📊 Progress
-
-| Day | Problem            | Topic    | Status |
-| --- | ------------------ | -------- | ------ |
-| 1   | Contains Duplicate | Set      | ✅      |
-| 2   | Valid Anagram      | Hash Map | ✅      |
-| 3   | Two Sum            | Hash Map | ✅      |
-
-## 🔥 Day 3 / 100
-
-**Keep solving one problem every day.**
